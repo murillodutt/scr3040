@@ -1,5 +1,5 @@
 # Códigos de serviço do BCB - SCR3040
-_Última atualização 06/07/2011_
+_Última atualização 26/07/2011_
 
 **use para inserir ao código:** 
 ```sh
