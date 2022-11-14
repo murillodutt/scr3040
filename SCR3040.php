@@ -1,7 +1,7 @@
 <?php
 
 // Códigos de serviço do BCB - SCR3040
-// Última atualização 06/07/2011 
+// Última atualização 66/07/2011 
 
 /*
 ----------
@@ -67,9 +67,9 @@ $codVencimento = [
     "180" => "Créditos a vencer de 1801 a 5400 dias",
     "190" => "Créditos a vencer acima de 5400 dias",
     "199" => "Créditos a vencer com prazo indeterminado",
-    "205" => "Créditos vencidos de 1 a 14 dias",  
 
     // Créditos vencidos de 205 a 290
+    "205" => "Créditos vencidos de 1 a 14 dias",  
     "210" => "Créditos vencidos de 15 a 30 dias",
     "220" => "Créditos vencidos de 31 a 60 dias",
     "230" => "Créditos vencidos de 61 a 90 dias",
